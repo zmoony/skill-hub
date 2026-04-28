@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "monday",
+  "wordsPerDot": 25,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "[周报]-gggg[年度第]ww[周]",
+  "weeklyNoteTemplate": "",
+  "weeklyNoteFolder": "周刊",
+  "localeOverride": "system-default"
+}

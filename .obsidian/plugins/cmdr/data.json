@@ -1,0 +1,49 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "obsidian-linter:lint-file",
+      "icon": "lint-file",
+      "name": "Linter: 格式化当前文件",
+      "mode": "any"
+    },
+    {
+      "id": "editor:open-search-replace",
+      "icon": "lucide-search",
+      "name": "在当前笔记中查找并替换",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "editor:toggle-code",
+      "icon": "lucide-code-2",
+      "name": "代码块",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

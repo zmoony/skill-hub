@@ -1,0 +1,318 @@
+{
+  "main": {
+    "id": "3885d88fe5262169",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebda9c724e8c9f6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb27d7de948002f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/提示词/结构与约束/quick start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quick start"
+            }
+          },
+          {
+            "id": "dfda5e9b6d1a7cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/wiscom/代码生成/5. 进度-问题.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. 进度-问题"
+            }
+          },
+          {
+            "id": "87e0bd903c545b44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "后端资料/工具/vscode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vscode"
+            }
+          },
+          {
+            "id": "a2578c7c6ad82fad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "收藏/个人资料/个人账号.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "个人账号"
+            }
+          },
+          {
+            "id": "fc26b1e9e9d94423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai/提示词/结构与约束/quick start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quick start"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c0239a79ddeb2d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7848f67e8db5bda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1208c53c8629bb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9bbf4035a674ef23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "skill",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1f3a14d50c933033",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5124969482422
+  },
+  "right": {
+    "id": "e2bf83cffcaad715",
+    "type": "split",
+    "children": [
+      {
+        "id": "60bb1a2f02400f70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9e8fa2bb167ea4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UI/教程/学习网站.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "学习网站 的反向链接列表"
+            }
+          },
+          {
+            "id": "2741c2fe5610adaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UI/教程/学习网站.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "学习网站 的出链列表"
+            }
+          },
+          {
+            "id": "ae69484cb24bece7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "2d390c8a3254364d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f89ad76a4d609dcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "收藏/个人资料/个人账号.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "个人账号 的大纲"
+            }
+          },
+          {
+            "id": "149a3d010f9824cd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "d445a7baa811c8ce",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": true,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": true,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
+      "float-search:Search obsidian in modal view": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": true
+    }
+  },
+  "active": "a2578c7c6ad82fad",
+  "lastOpenFiles": [
+    "后端资料/工具/vscode.md",
+    "ai/提示词/skills/第三方.md",
+    "ai/提示词/结构与约束/quick start.md",
+    "ai/工具网站.md",
+    "ai/提示词/结构与约束/lingma结构.md",
+    "ai/提示词/结构与约束/CLAUDE.md.md",
+    "ai/提示词/promot/常用提示词.md",
+    "ai/提示词/promot/common-skill.md",
+    "ai/提示词/skills/后端/常用.md",
+    "ai/提示词/skills/wiscom",
+    "ai/提示词/skills/wisc",
+    "ai/提示词/未命名.md",
+    "收藏/个人资料/个人账号.md",
+    "ai/wiscom/代码生成/2. 需求生成，业务代码.md",
+    "ai/wiscom/账户信息.md",
+    "ai/wiscom/代码生成/4. 测试.md",
+    "ai/提示词/skills/后端/asserts/dd82d9d64ed35393ecaa3457ed24f32d.png",
+    "ai/提示词/skills/后端/asserts",
+    "ai/提示词/结构与约束/asserts/AGENT.md",
+    "ai/提示词/结构与约束/asserts/CLAUDE.md",
+    "ai/提示词/结构与约束/asserts",
+    "ai/提示词/结构与约束",
+    "ai/wiscom/asserts/49d19c38694f6c9d342b0e3200e33eca.png",
+    "ai/wiscom/提示词/特征分析.md",
+    "ai/wiscom/提示词",
+    "ai/wiscom/代码生成/5. 进度-问题.md",
+    "ai/wiscom/代码生成/1. 基础架构生成.md",
+    "ai/wiscom/代码生成/asserts/PRD-重点敏感警情事件与人员管理系统(1).md",
+    "ai/wiscom/代码生成/asserts",
+    "ai/wiscom/代码生成/3. 代码生成模板.md",
+    "ai/提示词/skills/前端/第三方.md",
+    "后端资料/大数据/elasticsearch/快速开始.md",
+    "ai/wiscom/asserts/aa8e97e701eb0dc0a9fc72267f632ea6.png",
+    "教育/觉悟.md",
+    "ai/wiscom/代码生成",
+    "ai/wiscom/asserts/d9e7eb73f83fc6844b04891167a1a729.png",
+    "ai/wiscom/asserts",
+    "后端资料/服务器/linux/命令.md",
+    "周刊/产品",
+    "UI/教程/未命名.canvas",
+    "后端资料/测试/asserts/Pasted image 20250911113355.png",
+    "后端资料/工具/asserts/Pasted image 20250325141707.png",
+    "ai/MCP/asserts/Pasted image 20250612193719.png",
+    "ai/MCP/asserts/Pasted image 20250612193658.png",
+    "ai/MCP/asserts/Pasted image 20250612192543.png",
+    "前端资料/vue/Element Plus/asserts/Pasted image 20250513170320.png",
+    "未命名.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "前端资料/vue/vite/未命名.canvas"
+  ]
+}

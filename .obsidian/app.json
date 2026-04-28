@@ -1,0 +1,9 @@
+{
+  "attachmentFolderPath": ".//asserts",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "autoConvertHtml": true,
+  "vimMode": false,
+  "showInlineTitle": true
+}
