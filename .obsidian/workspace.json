@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "skills/安装/npx.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "npx"
             }
           }
         ]
@@ -94,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
-                "collapseAll": false,
+                "file": "skills/安装/npx.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "npx 的反向链接列表"
             }
           },
           {
@@ -201,13 +201,21 @@
   },
   "active": "04e25d8143be4a83",
   "lastOpenFiles": [
+    "rules/CLAUDE.md",
+    "skills/安装/npx.md",
+    "skills/安装",
+    "欢迎.md",
+    "prompt/wiscom/filestore.md",
+    "rules",
+    "skills/wiscom/filestore-client/SKILL.md",
+    "skills/wiscom",
+    "skills/wiscom/filestore-client",
+    "prompt/wiscom",
     "prompt",
     "promot",
     "新建文件夹",
     "tools",
     "skills",
-    "README.md",
-    "新建 文本文档.txt",
-    "欢迎.md"
+    "README.md"
   ]
 }
