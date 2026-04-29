@@ -209,8 +209,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "04e25d8143be4a83",
+  "active": "87409db1f0c84397",
   "lastOpenFiles": [
+    "skills/wiscom/requirement-change-log/evals/evals.json",
+    "skills/wiscom/requirement-change-log/evals",
+    "skills/wiscom/requirement-change-log/SKILL.md",
+    "skills/wiscom/requirement-change-log",
     "prompt/common-skill.md",
     "prompt/常用提示词.md",
     "智能体应用开发/提示词工程/教程1.md",
@@ -227,10 +231,6 @@
     "欢迎.md",
     "skills/安装/推荐.md",
     "skills/wiscom/java-business-module-gen/SKILL.md",
-    "skills/wiscom/requirement-change-log/evals/evals.json",
-    "skills/wiscom/requirement-change-log/SKILL.md",
-    "skills/wiscom/requirement-change-log/evals",
-    "skills/wiscom/requirement-change-log",
     "skills/wiscom/java-business-module-gen",
     "skills/wiscom/business-workflow/SKILL.md",
     "skills/wiscom/business-workflow",
@@ -241,7 +241,6 @@
     "项目应用流程/wiscom/代码生成/账户信息.md",
     "智能体/dify/快速开始.md",
     "智能体/dify/数据图表.md",
-    "智能体/dify/开发接口智能体.md",
     "智能体/dify",
     "智能体",
     "新建文件夹",

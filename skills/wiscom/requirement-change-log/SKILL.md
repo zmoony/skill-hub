@@ -1,6 +1,6 @@
 ---
 name: "requirement-change-log"
-description: "用于把开发过程中的增补需求统一沉淀到当前工程的 doc 或 docs 下的 change-log/change-log.md。凡是用户提到增补需求、需求补充、需求变更记录、追加 change log、前端增补建议沉淀等场景，都应优先调用本技能，确保可回溯。"
+description: "Use when users ask to record supplemental requirements, requirement changes, change-log updates, or frontend enhancement notes, and the team needs a traceable append-only entry in doc/docs change-log."
 ---
 
 # 增补需求统一记录器
@@ -58,10 +58,45 @@ description: "用于把开发过程中的增补需求统一沉淀到当前工程
 ### 4. 前端增补建议
 - {{页面交互或字段展示建议}}
 
-### 5. 备注（可选）
+### 5. 前端涉及接口字段
+- 接口标识: {{接口名称/URL，例：GET /api/event/list}}
+- 触发页面: {{页面或组件名称}}
+- 请求字段:
+  - {{字段名}}: {{类型}}，{{含义}}，{{是否必填}}，{{示例值/取值范围}}
+- 响应字段:
+  - {{字段名}}: {{类型}}，{{含义}}，{{前端用途（展示/计算/状态控制）}}
+- 字段映射关系:
+  - {{前端字段}} <- {{后端字段}}（{{转换规则，无则写：直出}}）
+- 联调注意事项:
+  - {{枚举字典/时间格式/单位/精度/空值兜底等，无则写：待补充}}
+
+### 6. 备注（可选）
 - {{无则写: 待补充}}
 
 ---
+```
+
+## 前端字段最小填写示例
+
+当需求涉及前端页面、联调或字段展示时，`### 5. 前端涉及接口字段` 至少写到下面这个粒度：
+
+```md
+### 5. 前端涉及接口字段
+- 接口标识: GET /api/event/list
+- 触发页面: 事件列表页
+- 请求字段:
+  - pageNum: Integer，页码，必填，示例 1
+  - pageSize: Integer，每页数量，必填，示例 20
+  - keyword: String，检索关键词，非必填，示例 "重点人员"
+- 响应字段:
+  - total: Long，总条数，分页展示
+  - records[].eventName: String，事件名称，列表展示
+  - records[].eventTime: String，事件时间，列表展示（yyyy-MM-dd HH:mm:ss）
+- 字段映射关系:
+  - tableData[i].name <- records[i].eventName（直出）
+  - tableData[i].time <- records[i].eventTime（格式化为本地时区）
+- 联调注意事项:
+  - eventTime 返回 UTC 时间字符串，前端统一转 GMT+8 展示
 ```
 
 ## 缺失信息策略
@@ -69,6 +104,7 @@ description: "用于把开发过程中的增补需求统一沉淀到当前工程
 - 不阻塞写入。
 - 用户未提供的字段统一写 `待补充`。
 - 在回复中明确列出哪些字段待补充，便于下一轮补全。
+- 若涉及前端改动但未提供接口字段，`### 5. 前端涉及接口字段` 整段必须写 `待补充`，不可省略。
 
 ## 写入约束
 
@@ -84,7 +120,7 @@ description: "用于把开发过程中的增补需求统一沉淀到当前工程
 # Change Log - 增补需求统一记录
 
 > 本文件用于沉淀开发过程中的增补需求，按时间正序追加，便于回溯。
-> 记录项包含：时间、变更内容、涉及修改（模块+文件）、前端增补建议。
+> 记录项包含：时间、变更内容、涉及修改（模块+文件）、前端增补建议、前端涉及接口字段。
 
 ---
 ```
