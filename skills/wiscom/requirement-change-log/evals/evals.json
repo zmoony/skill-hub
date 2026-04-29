@@ -1,0 +1,24 @@
+{
+  "skill_name": "requirement-change-log",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "记录一下这次增补需求：事件列表新增按标签筛选，后端要改查询接口，前端要加筛选组件；涉及模块后端服务、前端页面、接口文档；涉及文件 src/main/java/com/wva/business/service/impl/EventServiceImpl.java 和 web/src/views/event/list.vue；前端建议筛选默认全部并支持多选。",
+      "expected_output": "在 doc 或 docs 下的 change-log/change-log.md 末尾追加一条完整记录，包含时间、变更内容、模块、文件、前端建议。",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "把这个需求补充写入变更记录：敏感人员详情页增加身份证脱敏开关，后端接口先只返回脱敏值，前端显示增加提示文案。文件暂时没确认。",
+      "expected_output": "成功追加记录，未提供的文件字段写待补充，并在回复中提示待补充项。",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "追加到 change log：已化解回访页面要加事件来源字段，数据库加字段，接口和页面都要联动。前端建议放在筛选栏并支持清空。",
+      "expected_output": "成功定位或创建 doc/docs/change-log/change-log.md，并将条目正序追加到末尾。",
+      "files": []
+    }
+  ]
+}
+
