@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/wiscom/filestore.md",
+                "file": "prompt/常用提示词.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "filestore"
+              "title": "常用提示词"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prompt/wiscom/filestore.md",
+                "file": "prompt/常用提示词.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "filestore 的反向链接列表"
+              "title": "常用提示词 的反向链接列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/wiscom/filestore.md",
+                "file": "prompt/常用提示词.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "filestore 的大纲"
+              "title": "常用提示词 的大纲"
             }
           },
           {
@@ -211,11 +211,26 @@
   },
   "active": "04e25d8143be4a83",
   "lastOpenFiles": [
+    "prompt/common-skill.md",
+    "prompt/常用提示词.md",
+    "智能体应用开发/提示词工程/教程1.md",
+    "prompt/wiscom/filestore.md",
+    "rules/vue-spec.md.md",
+    "rules/springboot-spec.md.md",
+    "rules/mybatis-spec.md.md",
+    "rules/java-spec.md.md",
+    "rules/git-spec.md.md",
+    "rules/elementplus-spec.md.md",
+    "rules/CLAUDE.md",
+    "rules/api-spec.md.md",
+    "README.md",
+    "欢迎.md",
+    "skills/安装/推荐.md",
+    "skills/wiscom/java-business-module-gen/SKILL.md",
     "skills/wiscom/requirement-change-log/evals/evals.json",
     "skills/wiscom/requirement-change-log/SKILL.md",
     "skills/wiscom/requirement-change-log/evals",
     "skills/wiscom/requirement-change-log",
-    "skills/wiscom/java-business-module-gen/SKILL.md",
     "skills/wiscom/java-business-module-gen",
     "skills/wiscom/business-workflow/SKILL.md",
     "skills/wiscom/business-workflow",
@@ -224,35 +239,20 @@
     "项目应用流程/wiscom/代码生成/0 任务规划.md",
     "项目应用流程/wiscom/代码生成/2. 需求生成，业务代码.md",
     "项目应用流程/wiscom/代码生成/账户信息.md",
-    "skills/安装/推荐.md",
     "智能体/dify/快速开始.md",
     "智能体/dify/数据图表.md",
     "智能体/dify/开发接口智能体.md",
     "智能体/dify",
     "智能体",
     "新建文件夹",
-    "MCP/图表/第三方服务.md",
     "MCP/asserts/Pasted image 20250612193719.png",
     "MCP/asserts/Pasted image 20250612193658.png",
     "MCP/asserts/Pasted image 20250612192543.png",
-    "MCP/快速开始.md",
     "MCP/图表",
     "MCP/asserts",
-    "MCP",
-    "项目应用流程/wiscom/代码生成/asserts/PRD-重点敏感警情事件与人员管理系统(1).md",
-    "项目应用流程/wiscom/提示词/特征分析.md",
-    "项目应用流程/wiscom/代码生成/5. 进度-问题.md",
-    "项目应用流程/wiscom/代码生成/4. 测试.md",
-    "项目应用流程/wiscom/代码生成/3. 代码生成模板.md",
     "项目应用流程/wiscom/asserts/d9e7eb73f83fc6844b04891167a1a729.png",
     "项目应用流程/wiscom/asserts/aa8e97e701eb0dc0a9fc72267f632ea6.png",
     "项目应用流程/wiscom/asserts/49d19c38694f6c9d342b0e3200e33eca.png",
-    "智能体应用开发/提示词工程/教程1.md",
-    "prompt/common-skill.md",
-    "厂家架构/lingma结构.md",
-    "prompt/常用提示词.md",
-    "项目应用/步骤.md",
-    "rules/vue-spec.md.md",
     "skills/后端/asserts/dd82d9d64ed35393ecaa3457ed24f32d.png"
   ]
 }
