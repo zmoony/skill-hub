@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompt/常用提示词.md",
+                "file": "skills/wiscom/filestore-client/SKILL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用提示词"
+              "title": "SKILL"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prompt/常用提示词.md",
+                "file": "skills/wiscom/filestore-client/SKILL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "常用提示词 的反向链接列表"
+              "title": "SKILL 的反向链接列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prompt/常用提示词.md",
+                "file": "skills/wiscom/filestore-client/SKILL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "常用提示词 的大纲"
+              "title": "SKILL 的大纲"
             }
           },
           {
@@ -209,14 +209,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "87409db1f0c84397",
+  "active": "04e25d8143be4a83",
   "lastOpenFiles": [
+    "skills/wiscom/business-workflow/SKILL.md",
+    "skills/wiscom/requirement-change-log/SKILL.md",
+    "skills/wiscom/java-business-module-gen/SKILL.md",
+    "skills/wiscom/filestore-client/SKILL.md",
+    "prompt/常用提示词.md",
     "skills/wiscom/requirement-change-log/evals/evals.json",
     "skills/wiscom/requirement-change-log/evals",
-    "skills/wiscom/requirement-change-log/SKILL.md",
     "skills/wiscom/requirement-change-log",
     "prompt/common-skill.md",
-    "prompt/常用提示词.md",
     "智能体应用开发/提示词工程/教程1.md",
     "prompt/wiscom/filestore.md",
     "rules/vue-spec.md.md",
@@ -230,11 +233,8 @@
     "README.md",
     "欢迎.md",
     "skills/安装/推荐.md",
-    "skills/wiscom/java-business-module-gen/SKILL.md",
     "skills/wiscom/java-business-module-gen",
-    "skills/wiscom/business-workflow/SKILL.md",
     "skills/wiscom/business-workflow",
-    "skills/wiscom/filestore-client/SKILL.md",
     "项目应用流程/wiscom/代码生成/1. 基础架构生成.md",
     "项目应用流程/wiscom/代码生成/0 任务规划.md",
     "项目应用流程/wiscom/代码生成/2. 需求生成，业务代码.md",
